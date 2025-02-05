@@ -26,7 +26,6 @@ class HomeView extends GetView<HomeController> {
                 verticalSpace(20),
                 searchView(searcController: controller.searchC),
                 verticalSpace(20),
-                verticalSpace(10),
                 Obx(
                   () => fiturView(
                     pagecontroller: controller.pageController,
