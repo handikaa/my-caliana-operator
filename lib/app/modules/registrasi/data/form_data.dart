@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 List formData = [
   {
     'icon': Icons.co_present_outlined,
-    'hintText': 'Masukan Nomor Kartu Akses',
-    'title': 'Nomor Kartu Akses',
+    'hintText': 'Masukan Nomor Kartu Identias',
+    'title': 'Nomor Kartu Identias',
     'isRequired': false,
   },
   {
@@ -12,18 +12,6 @@ List formData = [
     'hintText': 'Masukan Nomor Kartu Akses',
     'title': 'Nomor Kartu Akses',
     'isRequired': false,
-  },
-  {
-    'icon': Icons.co_present_outlined,
-    'hintText': 'Masukan Nomor Kartu Akses',
-    'title': 'Nomor Kartu Akses',
-    'isRequired': false,
-  },
-  {
-    'icon': Icons.co_present_outlined,
-    'hintText': 'Masukan Nomor Kartu Akses',
-    'title': 'Nomor Kartu Akses',
-    'isRequired': true,
   },
   {
     'icon': Icons.person_3_outlined,
